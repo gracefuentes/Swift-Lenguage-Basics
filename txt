@@ -1,0 +1,10 @@
+//1. The work I did for the challenge was not complete because I did not push my final work correctly. However, what I did was close but not the same as the correct procedure. I felt pretty lost.
+
+//2. I did understand the selection statement, the loop and the logic because it's similar to c language. It is still uncomfortable for me to get my mind used this new language but I believe I will.
+
+//3. I didn't understand this part that gave the value of “\u{222B}” because I had just never seen it before.
+
+//4. My solution is not the same but is close. The only difference is that I did have troubles pushing my work, completing the challenge, creating the folder and finding it on my computer.
+
+//5. I'm trying to improve by watching more videos to follow to fill the gaps in my knowledge. I have made mistakes that seem silly and tiny (sometimes I am missing just a parenthesis or curly braces) that I almost get so frustrated that it's hard to keep going.
+
